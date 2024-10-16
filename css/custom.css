@@ -1,0 +1,37 @@
+<style>
+     body {
+            margin: 0;
+            font-family: Arial;
+            color:  dimgray;
+         background-color: lavender;
+        }
+    
+    div.seredina {
+       
+        background: url(/jpg/1679426041_celes-club-p-buket-fon-vkontakte-2.jpg);
+        padding: 20px;
+        background-size: cover;
+        height: 220px;
+        background-position: center;}
+        
+     
+    div.header {margin: 20px; width: 45% ; 
+       background-color: rgba(255, 255, 255, 0.5);
+        font-size: 30px;
+        text-align: center;
+        color: dimgray;}
+
+div.container 
+     {
+        font-family: Arial;
+        color:  dimgray;}
+.button {
+
+
+background-color: lavender;
+
+    
+  
+   
+   
+    </style>
